@@ -245,6 +245,9 @@
             <mxPoint x="77" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6cggbh9Jsr4U8usKFyKE-88" value="FrontControllerServletV1 생성자에서&amp;nbsp;&lt;div&gt;&lt;div&gt;MemberController 3개를 controllerMap으로 선언&lt;/div&gt;&lt;/div&gt;&lt;div&gt;요청이 들어오면&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FrontControllerServletV1 service 메소드에서 해당하는 Controller를 맵핑해 주고&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;각각 MemeberController 에서는&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RequestDispatcher로 forward 한다&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="363" width="304" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
