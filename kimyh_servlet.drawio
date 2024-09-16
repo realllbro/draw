@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="v1">
-    <mxGraphModel dx="2014" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -129,11 +129,14 @@
             <mxPoint x="176" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YiQXatUVnrWXyefSBq0p-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V1: 프론트 컨트롤러를 도입&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;기존 구조를 최대한 유지하면서 프론트 컨트롤러를 도입&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="142" y="111" width="485" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="v2" id="xrowLhYP9IsH-8sUrZVo">
-    <mxGraphModel dx="2014" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EXdegNNTs0vk8RMBOalQ-0" />
         <mxCell id="EXdegNNTs0vk8RMBOalQ-1" parent="EXdegNNTs0vk8RMBOalQ-0" />
@@ -289,11 +292,14 @@
             <mxPoint x="176" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HzH4-7CR06kvKQugcbH9-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V2: View 분류&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;단순 반복 되는 뷰 로직 분리&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="EXdegNNTs0vk8RMBOalQ-1">
+          <mxGeometry x="103" y="63" width="485" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="v3" id="2olU-XvpfqG4A80prPC4">
-    <mxGraphModel dx="2014" dy="-150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="-150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hLMoGPFoKOyHj7F62Qll-0" />
         <mxCell id="hLMoGPFoKOyHj7F62Qll-1" parent="hLMoGPFoKOyHj7F62Qll-0" />
@@ -449,16 +455,19 @@
             <mxPoint x="176" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9YJfpP4IDwN-5XbFa9fH-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V3: Model 추가&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;서블릿 종속성 제거&lt;/li&gt;&lt;li&gt;뷰 이름 중복 제거&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="hLMoGPFoKOyHj7F62Qll-1">
+          <mxGeometry x="59" y="1233" width="485" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="v4" id="dHL6ZNX5yjjXs34B47gU">
-    <mxGraphModel dx="2014" dy="-150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="-150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KztbRzptdreoVoytc7fV-0" />
         <mxCell id="KztbRzptdreoVoytc7fV-1" parent="KztbRzptdreoVoytc7fV-0" />
         <mxCell id="KztbRzptdreoVoytc7fV-105" value="FrontControllerServletV4" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="46" y="1528" width="473" height="164" as="geometry" />
+          <mxGeometry x="35" y="1590" width="473" height="164" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-106" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;- controllerMap : Map&amp;lt;String, ControllerV4&amp;gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-105">
           <mxGeometry y="26" width="473" height="26" as="geometry" />
@@ -479,10 +488,10 @@
           <mxGeometry y="138" width="473" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-112" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ControllerV4&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ process(Map&amp;lt;String, String&amp;gt; paramMap, Map&amp;lt;String, Object&amp;gt; model): String&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="1195" y="1520" width="435" height="110" as="geometry" />
+          <mxGeometry x="1184" y="1582" width="435" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-113" value="MemberFormControllerV4" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="632" y="1420" width="453" height="86" as="geometry" />
+          <mxGeometry x="621" y="1482" width="453" height="86" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-114" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;-&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-113">
           <mxGeometry y="26" width="453" height="26" as="geometry" />
@@ -494,7 +503,7 @@
           <mxGeometry y="60" width="453" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-117" value="MemberListControllerV4" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="632" y="1530" width="454" height="86" as="geometry" />
+          <mxGeometry x="621" y="1592" width="454" height="86" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-118" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;-&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-117">
           <mxGeometry y="26" width="454" height="26" as="geometry" />
@@ -506,7 +515,7 @@
           <mxGeometry y="60" width="454" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-121" value="MemberSaveControllerV4" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="632" y="1640" width="455" height="86" as="geometry" />
+          <mxGeometry x="621" y="1702" width="455" height="86" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-122" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;-&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-121">
           <mxGeometry y="26" width="455" height="26" as="geometry" />
@@ -519,32 +528,32 @@
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-125" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-113">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="521" y="1544" as="sourcePoint" />
-            <mxPoint x="678" y="1574" as="targetPoint" />
+            <mxPoint x="510" y="1606" as="sourcePoint" />
+            <mxPoint x="667" y="1636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-126" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.005;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-117">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="519" y="1544" as="sourcePoint" />
-            <mxPoint x="642" y="1503" as="targetPoint" />
+            <mxPoint x="508" y="1606" as="sourcePoint" />
+            <mxPoint x="631" y="1565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-127" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=-0.003;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-121">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="519" y="1544" as="sourcePoint" />
-            <mxPoint x="632" y="1558.5" as="targetPoint" />
+            <mxPoint x="508" y="1606" as="sourcePoint" />
+            <mxPoint x="621" y="1620.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-128" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-112">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1086" y="1435" as="sourcePoint" />
-            <mxPoint x="1242" y="1437" as="targetPoint" />
+            <mxPoint x="1075" y="1497" as="sourcePoint" />
+            <mxPoint x="1231" y="1499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-129" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-112">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1085" y="1546" as="sourcePoint" />
-            <mxPoint x="1174" y="1647" as="targetPoint" />
+            <mxPoint x="1074" y="1608" as="sourcePoint" />
+            <mxPoint x="1163" y="1709" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-130" value="Implements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KztbRzptdreoVoytc7fV-129">
@@ -554,27 +563,27 @@
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-131" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1" target="KztbRzptdreoVoytc7fV-112">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1085" y="1653" as="sourcePoint" />
-            <mxPoint x="1175" y="1643" as="targetPoint" />
+            <mxPoint x="1074" y="1715" as="sourcePoint" />
+            <mxPoint x="1164" y="1705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-132" value="Implements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="1136.00498003893" y="1490.996295182349" as="geometry" />
+          <mxGeometry x="1125.00498003893" y="1552.996295182349" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-133" value="Implements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="1136.00498003893" y="1599.996295182349" as="geometry" />
+          <mxGeometry x="1125.00498003893" y="1661.996295182349" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-134" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="KztbRzptdreoVoytc7fV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="702" y="1881" as="sourcePoint" />
-            <mxPoint x="114" y="1881" as="targetPoint" />
+            <mxPoint x="691" y="1943" as="sourcePoint" />
+            <mxPoint x="103" y="1943" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-135" value="FrontControllerServletV4 생성자에서&amp;nbsp;&lt;div&gt;&lt;div&gt;MemberController 3개를 controllerMap으로 선언,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;요청이 들어오면&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FrontControllerServletV4 service 메소드에서 해당하는 Controller를 맵핑해 주고&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;request로 받은 파라메터와 리턴받을 model을&amp;nbsp; 같이 넘겨준다.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;각각 MemeberController 에서는 String viewName, model에 리턴값을 담아 리턴한다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;viewName으로&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;viewResolver를 메서드를 통해 MyView를 리턴받는다&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MyView render 메서드로 model과 같이&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RequestDispatcher로 forward 한다&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="119" y="1788" width="470" height="39" as="geometry" />
+          <mxGeometry x="108" y="1850" width="470" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-192" value="HttpServlet" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
-          <mxGeometry x="46" y="1411" width="370" height="60" as="geometry" />
+          <mxGeometry x="35" y="1473" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KztbRzptdreoVoytc7fV-193" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="KztbRzptdreoVoytc7fV-192">
           <mxGeometry y="26" width="370" height="8" as="geometry" />
@@ -588,11 +597,14 @@
             <mxPoint x="176" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JiWxk9OVAjLOiF6Og1YI-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V4: 단순하고 실용적인 컨트롤러&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;v3와 거의 비슷&lt;/li&gt;&lt;li&gt;구현 입장에서 ModelView를 직접 생성해서 반환하지 않도록 편리한 인터페이스 제공&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KztbRzptdreoVoytc7fV-1">
+          <mxGeometry x="59" y="1233" width="485" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="v5" id="I29Q6XQZJHDYOrEXl811">
-    <mxGraphModel dx="1802" dy="-1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="-1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0f5Nf56xRpMQTxweZ_RM-0" />
         <mxCell id="0f5Nf56xRpMQTxweZ_RM-1" parent="0f5Nf56xRpMQTxweZ_RM-0" />
@@ -920,6 +932,9 @@
             <mxPoint x="650" y="3012" as="sourcePoint" />
             <mxPoint x="827" y="3424" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rqbfe305cWomoKFocjE2-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V5: 유연한 컨트롤러&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;어댑터 도입&lt;/li&gt;&lt;li&gt;어댑터를 추가해서 프레임워크를 유연하고 확장성 있게 설계&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="0f5Nf56xRpMQTxweZ_RM-1">
+          <mxGeometry x="76" y="2379" width="361" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
